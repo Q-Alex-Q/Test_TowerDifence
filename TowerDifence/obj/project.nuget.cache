@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/R8D1U5Ug6Om7poA0eHEWIt48LKit1jJAKtyui2ZMMCaKyub/Yl0UTHFUflYLLDfBscke8S/0g4S9XbTsPzWXg==",
+  "success": true,
+  "projectFilePath": "E:\\PlariumTest2\\TowerDifence\\TowerDifence\\TowerDifence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandr\\.nuget\\packages\\gu.wpf.datagrid2d\\0.2.4\\gu.wpf.datagrid2d.0.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

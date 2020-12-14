@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gu.Wpf.DataGrid2D/0.2.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/Gu.Wpf.DataGrid2D.dll": {
+            "assemblyVersion": "0.2.4.0",
+            "fileVersion": "0.2.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gu.Wpf.DataGrid2D/0.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ffjzkUoUTKEVnrUsWbLw/cKhCLQNwjzTeiFySmycUbfTNk1vZzAAbPpxtMjHnymf64yWSlsyns73Yodru8RXSw==",
+      "path": "gu.wpf.datagrid2d/0.2.4",
+      "hashPath": "gu.wpf.datagrid2d.0.2.4.nupkg.sha512"
+    }
+  }
+}
